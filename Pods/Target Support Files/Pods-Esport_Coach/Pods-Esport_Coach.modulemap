@@ -1,0 +1,6 @@
+framework module Pods_Esport_Coach {
+  umbrella header "Pods-Esport_Coach-umbrella.h"
+
+  export *
+  module * { export * }
+}
