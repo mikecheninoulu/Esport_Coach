@@ -19,31 +19,31 @@ build and run the project
 0. User login
 
 <p align="center">
-    <img src="user.png", width="480">
+    <img src="user.png", width="240">
 </p>
 
 1. AR shooting in realworld
 
 <p align="center">
-    <img src="ar.png", width="480">
+    <img src="ar.png", width="240">
 </p>
 
 2. detailed training data analysis
 
 <p align="center">
-    <img src="data.png", width="480">
+    <img src="data.png", width="240">
 </p>
 
 3. all data can be stored online (AWS server is employed)
 
 <p align="center">
-    <img src="server.png", width="480">
+    <img src="server.png", width="240">
 </p>
 
 4. online ranking list
 
 <p align="center">
-    <img src="ranking.png", width="480">
+    <img src="ranking.png", width="240">
 </p>
 
 
