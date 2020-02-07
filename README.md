@@ -37,7 +37,7 @@ build and run the project
 3. all data can be stored online (AWS server is employed)
 
 <p align="center">
-    <img src="server.png", width="240">
+    <img src="server.png", width="480">
 </p>
 
 4. online ranking list
