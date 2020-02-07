@@ -1,12 +1,9 @@
-# Esport_Coach
-An iOS application that implements a 3D shooting game @chenhaoyu
-
-'Design © Copyright 2019 by Haoyu Chen'
-
 Esport coach
 ==========================
 
-An iOS application for training e-sport game players
+An iOS application that implements a AR 3D shooting game for training e-sport game players
+
+'Design © Copyright 2019 by Haoyu Chen'
 
 ## Operating Systems
 - **Mac OSX** Mavericks and above.
